@@ -1,10 +1,4 @@
 
-# **Team Name**
-# **Takım İsmi**
-
-Public Repo for --Team Name-- team @ --Organization Name-- bootcamp
-Takım X
-
 # Part 1
 # Ürün İle İlgili Bilgiler
 
