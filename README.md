@@ -10,18 +10,19 @@ Takım X
 
 ## Team Name
 
---Team Name--
+--Calvesia--
 
 ## Git Repo
 
-<https://github.com/atilsamancioglu/ScrumBootcampTemplate>
+<https://github.com/ahmetgezmen/calvesia>
 
 ## Team Roster
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atil Samancioglu: Team Member/Developer
+- Berkay Erbayat: Product Owner
+- Merve Gühan: Scrum Master
+- Ahmet Gezmen: Team Member/Developer
+- Uğurcan Çatak: Team Member/Developer
 
 ## Product Name
 
@@ -29,15 +30,13 @@ Takım X
 
 ## Far Vision
 
-- Movie App
-  - Description – This is a movie app listing movies from a main API along with the director, rating, year and many information as well as availability in popular streaming platforms such as Netflix, Prime etc.
+- Etkinlik Uygulaması
+  - Description – Bu, üniversite öğrencilerinin okudukları üniversitelerde ve yaşadıkları şehirde gerçekleştirilen etkinliklerden haberdar olacağı bir uygulamadır.
 
 ## Near Vision
 
-- IMDB Rating & Information
-  - Description – People can easily see the details of IMDB related data for their selected movie
-- Streaming platform availability
-  - Description – People can see whether they are available on their subscribed streaming platforms
+- Etkinliklerin kategorisi ve bilgileri
+  - Description – üniversite öğrencileri, seçtikleri kategorilere uygun etkinlikleri ve ayrıntıları kolayca görüntüleyebilecekler.
 
 
 ## Stakeholders
