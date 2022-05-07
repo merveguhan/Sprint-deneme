@@ -11,7 +11,6 @@
 <https://github.com/ahmetgezmen/calvesia>
 
 ## Team Roster
-## Takım Elemanları
 
 - Berkay Erbayat: Product Owner
 - Merve Gühan: Scrum Master
@@ -22,63 +21,28 @@
 
 --...--
 
-## Product Description
-
--  Bu uygulama ile üniversite öğrencileri çevresindeki ve okuduğu üniversite bünyesindeki etkinliklerden haberdar olabilecek. İçerisinde onlarca etkinliğin zaman ve mekan bilgisini barındıran bu uygulamada aynı zamanda kullanıcının tercih ettiği kategoriler ön planda tutulacak.
-
-## Product Features
-
-- ...
-
-
-## Target Group
-
-- 18-35 yaş arası üniversite öğrencileri
-
-## Product Backlog URL
-## Ürün İsmi
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
---...--
-
-## Ürün Açıklaması
-
 ## Product Backlog Ordering Rationale
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- ... uygulamamız ile üniversite öğrencilerinin çevresindeki ve okuduğu üniversite bünyesindeki etkinliklerden haberdar olmasını sağlayacağız. İçerisinde onlarca etkinliğin zaman ve mekan bilgisini barındıran uygulamamızda aynı zamanda kullanıcının tercih ettiği kategoriler ön planda tutulacak.
 
-Minimum Viable Product first and then Technology Readiness.
-## Ürün Özellikleri
 
 ## Definition of Ready
+
+- ...
 - Filmleri türüne göre ayırma
 - Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
 - IMDB ve Rotten Tomatoes puanlarını gösterme
 - Netflix'te ve Prime'da bulunurluğunu gösterme
 
-- Title
-- Expressed as User Story
-- Developers all understand what needs to be done
-- Dependencies are all understood and refined
-- No Impediments
-- Business value defined
-- Acceptante Criteria defined
-- Story Points Estimated
-## Hedef Kitle
 
 ## Whole-team relative-size estimating activity
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
 
-Method used was [T-Shirt-Sizes](https://www.c-sharpcorner.com/article/agile-story-point-estimation-techniques-t-shirt-sizing/). This activity was only done by the developers.
+- 18-35 yaş arası üniversite öğrencileri
+
 ## Product Backlog URL
 
-Used points 10, 20, 30, 40, and 50 as the different size options.
 [Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+--...--
 
----
 
 # Sprint 1
 
