@@ -21,11 +21,11 @@
 
 --...--
 
-## Product Backlog Ordering Rationale
+## Product Description
 - ... uygulamamız ile üniversite öğrencilerinin çevresindeki ve okuduğu üniversite bünyesindeki etkinliklerden haberdar olmasını sağlayacağız. İçerisinde onlarca etkinliğin zaman ve mekan bilgisini barındıran uygulamamızda aynı zamanda kullanıcının tercih ettiği kategoriler ön planda tutulacak.
 
 
-## Definition of Ready
+## Product Features
 
 - ...
 - Filmleri türüne göre ayırma
@@ -34,7 +34,7 @@
 - Netflix'te ve Prime'da bulunurluğunu gösterme
 
 
-## Whole-team relative-size estimating activity
+## Target Group
 
 - 18-35 yaş arası üniversite öğrencileri
 
@@ -46,7 +46,6 @@
 
 # Sprint 1
 
-- **Note**: All User Stories are expressed as user stories if you click into the details of a PBI. The titles of the PBIs are shorter on the backlog for brevities sake.
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Forecasted Points**: 100 Points Per Sprint
