@@ -2,7 +2,7 @@
 # Part 1
 # Ürün İle İlgili Bilgiler
 
-## Team Name
+## Takım ismi
 
 --Calvesia--
 
@@ -10,22 +10,22 @@
 
 <https://github.com/ahmetgezmen/calvesia>
 
-## Team Roster
+## Takım Elemanları
 
 - Berkay Erbayat: Product Owner
 - Merve Gühan: Scrum Master
 - Ahmet Gezmen: Team Member/Developer
 - Uğurcan Çatak: Team Member/Developer
 
-## Product Name
+## Ürün İsmi
 
 --...--
 
-## Product Description
+## Ürün Açıklaması
 - ... uygulamamız ile üniversite öğrencilerinin çevresindeki ve okuduğu üniversite bünyesindeki etkinliklerden haberdar olmasını sağlayacağız. İçerisinde onlarca etkinliğin zaman ve mekan bilgisini barındıran uygulamamızda aynı zamanda kullanıcının tercih ettiği kategoriler ön planda tutulacak.
 
 
-## Product Features
+## Ürün Özellikleri
 
 - ...
 - Filmleri türüne göre ayırma
@@ -34,11 +34,11 @@
 - Netflix'te ve Prime'da bulunurluğunu gösterme
 
 
-## Target Group
+## Hedef Kitle
 
 - 18-35 yaş arası üniversite öğrencileri
 
-## Product Backlog URL
+## Ürün İş Listesi URL'si
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 --...--
@@ -47,20 +47,13 @@
 # Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-
-- **Forecasted Points**: 100 Points Per Sprint
-- **Rationale**: There are 380 total points of User Stories planned in our backlog which are planned to complete throughout the bootcamp. There are four sprints so we divided by four and rounded up to an even 100. This will allow us to plan all of the user stories throughout the next four sprints.
+- 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Stories pulled into backlog**: Our backlog is ordered in terms of what needs to get done first, we, the developers, pulled the maximum stories into our sprint from the top of the backlog that did not exceed our forecasted points.
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- All stories are less than half of our current forecast.
-- User stories were decomposed into tasks, in our Miro board, red items are tasks, and blue items are user stories as outlined by the key.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-- **Kanban board link**: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Burndown chart**: Also on the same Miro Board: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
 Miro doesnt keep the formatting of the burndown chart line so here are progressive screenshots of it 
