@@ -20,62 +20,26 @@
 
 ## Product Name
 
---Product Name--
+--...--
 
-## Far Vision
+## Product Description
 
-- Etkinlik Uygulaması
-  - Description – Bu, üniversite öğrencilerinin okudukları üniversitelerde ve yaşadıkları şehirde gerçekleştirilen etkinliklerden haberdar olacağı bir uygulamadır.
+-  Bu uygulama ile üniversite öğrencileri çevresindeki ve okuduğu üniversite bünyesindeki etkinliklerden haberdar olabilecek. İçerisinde onlarca etkinliğin zaman ve mekan bilgisini barındıran bu uygulamada aynı zamanda kullanıcının tercih ettiği kategoriler ön planda tutulacak.
 
-## Near Vision
+## Product Features
 
-- Etkinliklerin kategorisi ve bilgileri
-  - Description – üniversite öğrencileri, seçtikleri kategorilere uygun etkinlikleri ve ayrıntıları kolayca görüntüleyebilecekler.
+- ...
 
 
-## Stakeholders
+## Target Group
 
-- Movie Lovers
-  - People often spending their free times watching movies and criticizing them
-- Time fillers
-  - People needing a way to kill time for weekends
-- Cinema party groups
-  - Group of people trying to make an informed decision on their movie choice for their cinema & pizza party
-
-## User Persona
-
-- Zeynep is a white collar employee who is working hard on weekdays and goes out at most couple of days during week. However at weekends she wants to watch a movie at night in her home but she has no idea what Neflix is offering and whether the movies are good enough to watch.
-
-  - Age
-    - 34
-  - Gender
-    - Female
-  - educational background
-    - Undergraduate Level Credentials
-  - Marital Status
-    - Married
-  - Profession
-    - Senior sales executive
-  - Work experience years & level of expertise
-    - 10 years in business
-  - Where and when will she access this mobile application
-    - iPhone and mainly at nights before she watches the movie
-  - Motivation/Needs
-    - She needs to find what she is looking for quickly
-    - She needs to filter the movies according to their genre, title, yeear etc.
-    - She needs to see whether they are available on Netflix or not
-  - Technology and access mechanisms that he regularly uses – desktop, mobile, operating system, browsers, et al
-    - iPhone mostly, rarely iPad.
-  - Other
-    - She also has Amazon Prima subscription but mainly watches the movies on Netflix.
-    - She may use this service to find a good TV Show as well but not as often as searching for movies.
-- Atıl Samancıoğlu: Team Member/Developer
+- 18-35 yaş arası üniversite öğrencileri
 
 ## Product Backlog URL
 ## Ürün İsmi
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
---Movie App--
+--...--
 
 ## Ürün Açıklaması
 
