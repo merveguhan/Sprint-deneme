@@ -67,10 +67,8 @@ Aşamalı ekran görünümleri
 ![Backlog 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Ekran görüntüleri ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
+- **Ürün Durumu**: Ekran görüntüleri: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
-- **Çalışan Yazılım**: Ekran Görüntüsü:
-- **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
   ![Screenshot 2](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
