@@ -47,34 +47,29 @@
 # Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-- 
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Stories pulled into backlog**: Our backlog is ordered in terms of what needs to get done first, we, the developers, pulled the maximum stories into our sprint from the top of the backlog that did not exceed our forecasted points.
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Burndown chart**: Also on the same Miro Board: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
-Miro doesnt keep the formatting of the burndown chart line so here are progressive screenshots of it 
+- **Burndown Tablosu**: Ayrıca Miro Board'da: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
+Miro aşamalı ekran görünümleri
 ![Burndown 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown1.png) 
 ![Burndown 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown2.png) 
 ![Burndown 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown3.png)
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
-- **Daily Scrums**: Scrums were completed in our slack channel when not able to meet on weekends due to time constraints of people. Here is a link directly to one days documentation of a scrum meeting: [Sprint 1 Daily Scrum Chats](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Impediment Removal Plan**: Swarm the impediment as a team to come up with a solution or workaround to unblock the impediment.
-
 - **Sprint board update and Burndown Updates**: Screenshots of burndown updates are above. Screenshots of board below. 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board ekran görüntüleri: 
 ![Backlog 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 ![Backlog 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
-- **Working Software**: Screenshot Proof:
+- **Çalışan Yazılım**: Ekran Görüntüsü:
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
   ![Screenshot 2](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
