@@ -69,11 +69,16 @@ Aşamalı ekran görünümleri
 ![Backlog 2](https://github.com/merveguhan/Sprint-deneme/blob/84a448e6de68336a2b5f7b506f3c384c41348367/Sprint1%20Document2.png) 
 ![Backlog 3](https://github.com/merveguhan/Sprint-deneme/blob/84a448e6de68336a2b5f7b506f3c384c41348367/Sprint1%20Document3.png)
 
-- **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
+- **Pair programming evidence**: ![Alt text](https://github.com/merveguhan/Sprint-deneme/blob/c33ecfb96ce18ea54a03361686fb051c9c09a3b6/Data%20Base/image.png) 
+(https://github.com/merveguhan/Sprint-deneme/blob/c33ecfb96ce18ea54a03361686fb051c9c09a3b6/Data%20Base/image%20(1).png)
+(https://github.com/merveguhan/Sprint-deneme/blob/c33ecfb96ce18ea54a03361686fb051c9c09a3b6/Data%20Base/image%20(2).png)
 
 -**Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image.png)
+  ![Screenshot 2](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(1).png)
+  ![Screenshot 3](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(2).png)
+  ![Screenshot 4](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(3).png)
+  ![Screenshot 5](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(4).png)
 
 
 - **Sprint Review**: 
