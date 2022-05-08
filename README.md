@@ -73,7 +73,8 @@ Aşamalı ekran görünümleri
 ![Alt text](https://github.com/merveguhan/Sprint-deneme/blob/c33ecfb96ce18ea54a03361686fb051c9c09a3b6/Data%20Base/image%20(1).png)
 ![Alt text](https://github.com/merveguhan/Sprint-deneme/blob/c33ecfb96ce18ea54a03361686fb051c9c09a3b6/Data%20Base/image%20(2).png)
 
--**Ürün Durumu**: Ekran görüntüleri: ![Screenshot 1](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image.png)
+##Ürün durumu: Ekran görüntüleri: 
+  ![Screenshot 1](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image.png)
   ![Screenshot 2](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(1).png)
   ![Screenshot 3](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(2).png)
   ![Screenshot 4](https://github.com/merveguhan/Sprint-deneme/blob/9c505ee04977cf4c5535c36ce323b649d06087ba/Em%C3%BClat%C3%B6r/image%20(3).png)
