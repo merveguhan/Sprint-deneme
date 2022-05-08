@@ -1,7 +1,4 @@
 
-# Part 1
-# Ürün İle İlgili Bilgiler
-
 ## Takım ismi
 
 --Calvesia--
@@ -16,6 +13,8 @@
 - Merve Gühan: Scrum Master
 - Ahmet Gezmen: Team Member/Developer
 - Uğurcan Çatak: Team Member/Developer
+
+# Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
 
@@ -54,7 +53,7 @@
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Sprint Board Güncellemesi ve Burndown Güncellemesi**
+## Sprint Board Güncellemesi ve Burndown Güncellemesi
 
 - **Burndown Tablosu**: Ayrıca Miro Board'da: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
 Aşamalı ekran görünümleri
