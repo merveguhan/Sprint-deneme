@@ -65,9 +65,9 @@ Aşamalı ekran görünümleri
 ![Burndown 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown3.png)
  
 - **Sprint board güncellemesi**: Sprint board ekran görüntüleri: 
-![Backlog 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/merveguhan/Sprint-deneme/commit/e844489a96abffef5d850eda239f4833869e46ba) 
+![Backlog 2](https://github.com/merveguhan/Sprint-deneme/commit/84a448e6de68336a2b5f7b506f3c384c41348367) 
+![Backlog 3](https://github.com/merveguhan/Sprint-deneme/commit/84a448e6de68336a2b5f7b506f3c384c41348367)
 
 - **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
