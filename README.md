@@ -66,8 +66,8 @@ Aşamalı ekran görünümleri
  
 - **Sprint board güncellemesi**: Sprint board ekran görüntüleri: 
 ![Backlog 1](https://github.com/merveguhan/Sprint-deneme/blob/e844489a96abffef5d850eda239f4833869e46ba/Sprint1%20Document1.png) 
-![Backlog 2](https://github.com/merveguhan/Sprint-deneme/commit/84a448e6de68336a2b5f7b506f3c384c41348367) 
-![Backlog 3](https://github.com/merveguhan/Sprint-deneme/commit/84a448e6de68336a2b5f7b506f3c384c41348367)
+![Backlog 2](https://github.com/merveguhan/Sprint-deneme/blob/84a448e6de68336a2b5f7b506f3c384c41348367/Sprint1%20Document2.png) 
+![Backlog 3](https://github.com/merveguhan/Sprint-deneme/blob/84a448e6de68336a2b5f7b506f3c384c41348367/Sprint1%20Document3.png)
 
 - **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
