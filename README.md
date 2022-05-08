@@ -55,7 +55,7 @@
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 - **Burndown Tablosu**: Ayrıca Miro Board'da: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
-Miro aşamalı ekran görünümleri
+Aşamalı ekran görünümleri
 ![Burndown 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown1.png) 
 ![Burndown 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown2.png) 
 ![Burndown 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown3.png)
@@ -67,7 +67,7 @@ Miro aşamalı ekran görünümleri
 ![Backlog 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
+- **Ürün Durumu**: Ekran görüntüleri ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
 - **Çalışan Yazılım**: Ekran Görüntüsü:
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -78,21 +78,6 @@ Miro aşamalı ekran görünümleri
 - **Sprint Review**: 
 Decision made: Database creation task is required for the retrieval of the information using the email. It is not required for form page. Moving to next sprint PBI for revisiting quotation. Part 2 held on 11/15 with the stakeholder.
 
-- **Sprint Retrospective Actions:**
-  - Update User Stories to be more user story accurate
-  - Take out unused functionality
-  - Include unit tests in order to ensure robustness (This is in the backlog)
-  - Come up with definition of done (We completed this in the retro and moved it to completed because we thought it was important to do quickly.)
-
--**Definition of Done**:
-- All related backlog items to user story are done
-- Product owner approval
-- Acceptance criteria met for each story
-- New unit tests passed
-- No bugs introduced, all prior tests still pass
-
--**Other Notes**:
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
