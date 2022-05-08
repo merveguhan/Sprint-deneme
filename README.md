@@ -51,8 +51,8 @@
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/merveguhan/Sprint-deneme/commit/ba94d18bfb71a6e778480aac42da0b182e86490b)
-[Sprint 1 Daily Scrum 2 Chats](https://github.com/merveguhan/Sprint-deneme/commit/ba94d18bfb71a6e778480aac42da0b182e86490b)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/merveguhan/Sprint-deneme/commit/ba94d18bfb71a6e778480aac42da0b182e86490b) /
+[Sprint 1 Daily Scrum 2 Chats](https://github.com/merveguhan/Sprint-deneme/commit/0651306cc381eb80b9c396576a3fc3f2ce82a597)
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
